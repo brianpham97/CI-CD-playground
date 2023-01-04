@@ -15,4 +15,3 @@ test("multiply", () => {
 test("divide", () => {
   expect(math.divide(2, 1)).toBe(2);
 });
-
